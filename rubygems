@@ -1,0 +1,11 @@
+a. 查找默认源:
+
+	gem sources
+
+b. 移除默认源:
+
+	gem sources --remove https://rubygems.org/
+
+c. 添加新源:
+
+	gem sources -a https://mirrors.aliyun.com/rubygems/
